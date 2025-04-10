@@ -4,4 +4,8 @@
     box-sizing: border-box;
 }
 
-article {}
+article {
+    align-items: center;
+    width: 3em;
+    padding: 2em;
+}
